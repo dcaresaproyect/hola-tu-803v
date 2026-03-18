@@ -51,4 +51,5 @@ export class LambdaStack extends cdk.Stack {
       value: holaFn.functionArn,
     });
   }
+  
 }
